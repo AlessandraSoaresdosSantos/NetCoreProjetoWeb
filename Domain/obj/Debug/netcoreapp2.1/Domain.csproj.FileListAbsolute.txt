@@ -6,3 +6,12 @@ C:\Users\asantos\OneDrive - Cisa Trading\Desktop\NetCoreFATEC\Domain\obj\Debug\n
 C:\Users\asantos\OneDrive - Cisa Trading\Desktop\NetCoreFATEC\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
 C:\Users\asantos\OneDrive - Cisa Trading\Desktop\NetCoreFATEC\Domain\obj\Debug\netcoreapp2.1\Domain.dll
 C:\Users\asantos\OneDrive - Cisa Trading\Desktop\NetCoreFATEC\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Alessandra\source\repos\NetCoreProjetoWeb\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
